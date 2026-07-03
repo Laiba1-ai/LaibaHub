@@ -119,3 +119,13 @@ color:#38bdf8;
 color:#cbd5e1;
 line-height:1.6;
 }
+.sidebar a{
+color:white;
+text-decoration:none;
+display:block;
+width:100%;
+}
+
+.sidebar a:hover{
+color:#38bdf8;
+}
