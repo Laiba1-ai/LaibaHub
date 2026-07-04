@@ -227,3 +227,10 @@ height:70px;
 object-fit:contain;
 margin-bottom:15px;
 }
+.sidebar a.active{
+background:#38bdf8;
+color:white;
+padding:12px;
+border-radius:10px;
+display:block;
+}
